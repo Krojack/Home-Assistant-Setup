@@ -1,5 +1,5 @@
 # My Hardware:
-	- Intel NUC
+	- [Intel NUC](https://www.amazon.com/gp/product/B018Q0GN60/)
 	- 16GB RAM
 	- 256GB SSD
 
