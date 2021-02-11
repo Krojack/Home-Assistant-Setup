@@ -15,8 +15,8 @@
 - [Any USB HUB](https://www.amazon.com/gp/product/B00L2442H0/) - I plug my HUSBZB-1 and a Wyze sense hub.
 
 ## Pics:
-- [USB setup](https://i.imgur.com/jLmssot.jpg)
-- [Hardware case](https://i.imgur.com/QKlr4Qp.jpg)
+- [USB setup](https://i.imgur.com/9ctzb8b.jpg)
+- [Hardware case](https://i.imgur.com/sEWwOGF.jpg)
   - Bottom: Old Pi4, Intel NUC w/USB hub, 3TB Drive, Synology NAS w/USB hub.
   - Top: Router, Cable modem.
 - [HassOS VM Dashboard](https://i.imgur.com/2ohQ8Oa.jpg) - HA runs fine with a 24GB drive partition and 2GB RAM.
