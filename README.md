@@ -4,7 +4,7 @@
 - [256GB SSD](https://www.amazon.com/gp/product/B075RJS55D/)
 
 ## Software setup:
-- [Proxmox VE](https://proxmox.com/en/proxmox-ve) with 2 virtual servers running
+- [Proxmox VE](https://proxmox.com/en/proxmox-ve) with 3 virtual servers running
   - 1st VM = Ubuntu server. This runs various things like:
     - MariaDB
     - InfluxDB
