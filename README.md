@@ -8,8 +8,8 @@
   - 1st VM = Ubuntu server. This runs various things like:
     - MariaDB
     - InfluxDB
-    - Home Assistant
     - Plex Media Server
+    - Other odds-n-ends like MQTT broker and someday ZwaveJS2MQTT
   - 2nd VM = HassOS. I followed [this guide](https://community.home-assistant.io/t/installing-home-assistant-using-proxmox/201835) to install everything from Proxmox to HA.
   - 3rd VM = Ubuntu Desktop. I can remote desktop into this and do various things. This is a 128G iSCSI mount from my NAS for it's storage.
 
