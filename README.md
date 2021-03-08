@@ -22,6 +22,6 @@
 ## Pics:
 - [USB setup](https://i.imgur.com/9ctzb8b.jpg)
 - [Hardware case](https://i.imgur.com/sEWwOGF.jpg)
-  - Bottom: Old Pi4, Intel NUC w/USB hub, 3TB Drive, Synology NAS w/USB hub.
+  - Bottom: Intel NUC w/USB hub, 3TB Drive, Synology NAS w/USB hub.
   - Top: Router, Cable modem.
 - [HassOS VM Dashboard](https://i.imgur.com/2ohQ8Oa.jpg) - HA runs fine with a 24GB drive partition and 2GB RAM.
