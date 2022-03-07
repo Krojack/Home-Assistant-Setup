@@ -9,7 +9,7 @@
     - MariaDB
     - InfluxDB
     - Pi-Hole
-    - Other odds-n-ends like MQTT broker and someday ZwaveJS2MQTT
+    - Other odds-n-ends services.
   - 2nd VM = HassOS. I followed [this guide](https://community.home-assistant.io/t/installing-home-assistant-using-proxmox/201835) to install everything from Proxmox to HA.
   - 3rd VM = Ubuntu Desktop. I can remote desktop into this and do various things. This is a 64G iSCSI mount from my NAS for it's storage.
 
