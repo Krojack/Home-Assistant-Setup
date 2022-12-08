@@ -1,7 +1,7 @@
 ## My Hardware:
-- [Intel NUC](https://www.amazon.com/gp/product/B018Q0GN60/) i5-6260U
+- [Intel NUC](https://www.amazon.com/gp/product/B018Q0GN60/) - i5-6260U
 - [16GB RAM](https://www.amazon.com/gp/product/B07MBP5NBT/)
-- [500GB SSD] A hand-me-down Samsung Drive from my primary computer
+- 500GB SSD - A hand-me-down Samsung Drive from my primary computer
 
 ## Software setup:
 - [Proxmox VE](https://proxmox.com/en/proxmox-ve) with 4 virtual servers running
