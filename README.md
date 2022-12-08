@@ -15,7 +15,7 @@
   - 4th VM = Ubuntu Docker only. I run Portainer on it to manage the containers.
 
 ## Other hardware I have (all optional):
-- 2 Synology NAS devices. Used for Plex storage. Can also be used to create iSCSI storage for creating other VM servers.
+- 2 Synology NAS devices. 1 for file and backup storage, 1 for Plex media storage. Can also be used to create iSCSI storage for creating other VM servers.
 - [GoControl HUSBZB-1](https://www.amazon.com/gp/product/B01GJ826F8/) - Zigbee & Z-wave USB dongle.
 - [A USB extension cable](https://www.amazon.com/gp/product/B07VSG93G3/) - Needed to get the HUSBZB-1 away from your NUC.
 - [Any USB HUB](https://www.amazon.com/gp/product/B08GYPDDLL/) - I plug my HUSBZB-1 and a Wyze sense hub. 2.0 hub is more than fast enough.
